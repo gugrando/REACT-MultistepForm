@@ -1,0 +1,20 @@
+.thanks-container {
+    text-align: center;
+    /* background-color: red; */
+}
+.thanks-container h2 {
+    margin-bottom: 1rem;
+}
+.thanks-container p {
+    font-size: .9rem;
+    margin-bottom: .5rem;
+}
+.review-data{
+    text-align: left;
+}
+.review-data svg{
+    margin-left: 5px;
+}
+.review-data span{
+    font-weight: bold;
+}
